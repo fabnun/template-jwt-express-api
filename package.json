@@ -1,0 +1,23 @@
+{
+  "name": "template-jwt-express-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "jwt",
+    "ejs"
+  ],
+  "author": "Fabián Núñez ",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
