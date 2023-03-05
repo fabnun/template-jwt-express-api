@@ -53,7 +53,7 @@ const logout = async () => {
   }
 };
 
-// API CALL sumar
+// API sumar
 const sumar = async () => {
   try {
     // numero aleatorio entre 0 y 10
