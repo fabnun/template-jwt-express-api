@@ -1,9 +1,10 @@
-# BASIC API WITH NODE, JWT, EXPRESS AND EJS
+# Basic API (Node, Express, Jwt, Ejs)
 
 ## Download
 
 ```bash
-git clone
+git clone https://github.com/fabnun/template-jwt-express-api.git
+cd template-jwt-express-api
 ```
 
 ## Installation
@@ -17,3 +18,5 @@ npm install
 ```bash
 npm start
 ```
+
+## License

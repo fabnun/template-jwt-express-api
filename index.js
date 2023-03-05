@@ -14,7 +14,7 @@ app.use(express.json());
 
 // El home se renderiza con ejs, usando un titulo y un mensaje
 app.get('/', function (req, res) {
-  const titulo = 'Basic API : NodeJS, Express, EJS y JWT';
+  const titulo = 'Basic API (Node, Express, Jwt, Ejs)';
   res.render('index', {
     titulo: titulo,
     mensaje: `

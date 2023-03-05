@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.container {
+  border-radius: 0.5rem;
+  background-color: aquamarine;
+  padding: 3rem;
+  margin: 2rem;
+}
