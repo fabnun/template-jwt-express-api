@@ -1,5 +1,7 @@
 # Basic API (Node, Express, Jwt, Ejs)
 
+Example of a basic API in Node with Express, JWT authentication and token validation to protect the endpoints. In addition, it shows how to use the API from the client side using JavaScript.
+
 ## Download
 
 ```bash
@@ -18,5 +20,3 @@ npm install
 ```bash
 npm start
 ```
-
-## License

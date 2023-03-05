@@ -5,6 +5,9 @@ const ejs = require('ejs');
 // Inicia la aplicación
 const app = express();
 
+// Permite usar archivos estáticos de la carpeta public
+app.use(express.static('public'));
+
 // Renderiza archivos html de la carpeta views con ejs
 app.engine('html', ejs.renderFile);
 app.set('view engine', 'html');
